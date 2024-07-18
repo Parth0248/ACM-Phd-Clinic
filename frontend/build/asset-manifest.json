@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/phd-clinic-dashboard/static/css/main.36ffff30.css",
+    "main.js": "/phd-clinic-dashboard/static/js/main.3069b971.js",
+    "static/js/453.d855a71b.chunk.js": "/phd-clinic-dashboard/static/js/453.d855a71b.chunk.js",
+    "static/media/ACM.png": "/phd-clinic-dashboard/static/media/ACM.7a2170582f4ea33529e4.png",
+    "index.html": "/phd-clinic-dashboard/index.html",
+    "main.36ffff30.css.map": "/phd-clinic-dashboard/static/css/main.36ffff30.css.map",
+    "main.3069b971.js.map": "/phd-clinic-dashboard/static/js/main.3069b971.js.map",
+    "453.d855a71b.chunk.js.map": "/phd-clinic-dashboard/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ffff30.css",
+    "static/js/main.3069b971.js"
+  ]
+}
