@@ -17,6 +17,9 @@ import { useNavigate } from "react-router-dom";
 import Brightness4Icon from "@mui/icons-material/Brightness4";
 import ACMLogo from "../ACM.png";
 
+// Set the base URL for the axios instance to the backend server
+axios.defaults.baseURL = 'https://phd-clinic.onrender.com';
+
 const MentorshipApplicationPage = () => {
   const navigate = useNavigate();
   const { toggleTheme } = useThemeContext();

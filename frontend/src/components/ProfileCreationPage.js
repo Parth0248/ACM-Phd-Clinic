@@ -14,6 +14,9 @@ import { useThemeContext } from "../ThemeContext";
 import Brightness4Icon from "@mui/icons-material/Brightness4";
 import ACMLogo from "../ACM.png";
 
+// Set the base URL for the axios instance to the backend server
+axios.defaults.baseURL = 'https://phd-clinic.onrender.com';
+
 const ProfileCreationPage = () => {
   const { toggleTheme } = useThemeContext();
   const navigate = useNavigate();
