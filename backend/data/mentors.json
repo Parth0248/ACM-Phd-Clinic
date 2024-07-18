@@ -1,0 +1,231 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Sunpreet Arora",
+      "institute": "Visa",
+      "field": "Biometrics, Machine Learning, Systems Security"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Siddhartha Asthana",
+      "institute": "MasterCard",
+      "field": "Human Computer Interaction, Machine Learning"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Arun Babu",
+      "institute": "ARTPARK/IISc",
+      "field": "Software Engineering, Cybersecurity"
+    },
+    {
+      "id": 4,
+      "name": "Prof. Abhijnan Chakraborty",
+      "institute": "IIT Delhi",
+      "field": "Fairness in Machine Learning, Social Networks"
+    },
+    {
+      "id": 5,
+      "name": "Prof. Anirban Chakraborty",
+      "institute": "IISc",
+      "field": "Computer Vision, Machine Learning"
+    },
+    {
+      "id": 6,
+      "name": "Prof. Ayon Chakraborty",
+      "institute": "IIT Madras",
+      "field": "Wireless Networks, Mobile Computing, IoT"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Nishanth Chandran",
+      "institute": "Microsoft India",
+      "field": "Cryptography, Applied Cryptography, Security"
+    },
+    {
+      "id": 8,
+      "name": "Prof. Sridhar Chimalakonda",
+      "institute": "IIT Tirupati",
+      "field": "Software Engineering, Educational Technologies, Human-Computer Interaction"
+    },
+    {
+      "id": 9,
+      "name": "Prof. Sumit Darak",
+      "institute": "IIIT Delhi",
+      "field": "Wireless Network Design, Wireless Communication"
+    },
+    {
+      "id": 10,
+      "name": "Dr. Lipika Dey",
+      "institute": "TCS Research",
+      "field": "NLP, ML, AI, Healthcare"
+    },
+    {
+      "id": 11,
+      "name": "Prof. Dinesh J",
+      "institute": "IIIT Bangalore",
+      "field": "Multimodal Analysis, Embodied Conversational Agents"
+    },
+    {
+      "id": 12,
+      "name": "Prof. Chaya Ganesh",
+      "institute": "IISc",
+      "field": "Cryptography, Security"
+    },
+    {
+      "id": 13,
+      "name": "Prof. Manas Gaur",
+      "institute": "UMBC",
+      "field": "Knowledge Graphs, Natural Language Processing"
+    },
+    {
+      "id": 14,
+      "name": "Prof. Dheryta Jaisinghani",
+      "institute": "University of Northern Iowa",
+      "field": "IoT"
+    },
+    {
+      "id": 15,
+      "name": "Prof. Omprakash Kaiwartya",
+      "institute": "Nottingham Trent University",
+      "field": "Vehicular Adhoc, Drone-enabled Networks, Next-generation Wireless"
+    },
+    {
+      "id": 16,
+      "name": "Prof. Uday P. Khedker",
+      "institute": "IIT Bombay",
+      "field": "Compilers, Program Analysis"
+    },
+    {
+      "id": 17,
+      "name": "Prof. Ponnurangam Kumaraguru 'PK'",
+      "institute": "IIIT Hyderabad",
+      "field": "Online Social Media, Cybersecurity, Online Privacy"
+    },
+    {
+      "id": 18,
+      "name": "Prof. Radhika Mamadi",
+      "institute": "IIIT Hyderabad",
+      "field": "Computational Linguistics"
+    },
+    {
+      "id": 19,
+      "name": "Prof. Bivas Mitra",
+      "institute": "IIT Kharagpur",
+      "field": "Affective Computing"
+    },
+    {
+      "id": 20,
+      "name": "Prof. Mainack Mondal",
+      "institute": "IIT Kharagpur",
+      "field": "Social Networks, Cybersecurity, Usable Privacy and Security"
+    },
+    {
+      "id": 21,
+      "name": "Prof. Prerana Mukherjee",
+      "institute": "Jawaharlal Nehru University",
+      "field": "Computer Vision"
+    },
+    {
+      "id": 22,
+      "name": "Prof. Madhavan Mukund",
+      "institute": "Chennai Mathematical Institute",
+      "field": "Formal Verification, Machine Learning"
+    },
+    {
+      "id": 23,
+      "name": "Dr. Dheeraj Nagaraj",
+      "institute": "Google Research",
+      "field": "Theoretical Machine Learning, Reinforcement Learning, Applied Probability"
+    },
+    {
+      "id": 24,
+      "name": "Dr. Krishnasuri Narayanam",
+      "institute": "IBM",
+      "field": "Blockchain"
+    },
+    {
+      "id": 25,
+      "name": "Dr. Soumyabrata Pal",
+      "institute": "Google Research",
+      "field": "Theoretical Machine Learning, Applied Statistics, Information Theory"
+    },
+    {
+      "id": 26,
+      "name": "Prof. Ranjani Parthasarathi",
+      "institute": "Anna University",
+      "field": "SDN in Mobile/5G, IoT Protocols, Security"
+    },
+    {
+      "id": 27,
+      "name": "Prof. Venkatesh Raman",
+      "institute": "Institute of Mathematical Sciences",
+      "field": "Algorithms, Data Structures"
+    },
+    {
+      "id": 28,
+      "name": "Prof. R Ramanujam",
+      "institute": "Institute of Mathematical Sciences",
+      "field": "Security Theory, Game Theory, Theory of Computation"
+    },
+    {
+      "id": 29,
+      "name": "Prof. Chester Rebeiro",
+      "institute": "IIT Madras",
+      "field": "Computer Security, Malware Analysis, Network Security"
+    },
+    {
+      "id": 30,
+      "name": "Prof. Krishna S",
+      "institute": "IIT Bombay",
+      "field": "Formal Methods, Verification, Programming Languages"
+    },
+    {
+      "id": 31,
+      "name": "Dr. Niharika Sachdeva",
+      "institute": "InfoEdge",
+      "field": "Information Retrieval"
+    },
+    {
+      "id": 32,
+      "name": "Dr. Anush Sankaran",
+      "institute": "Deeplite, Inc., Canada",
+      "field": "Machine Learning, Biometrics"
+    },
+    {
+      "id": 33,
+      "name": "Prof. Saket Saurabh",
+      "institute": "Institute of Mathematical Sciences",
+      "field": "Graph Algorithms, Graph Theory"
+    },
+    {
+      "id": 34,
+      "name": "Dr. Naveen Sivadasan",
+      "institute": "TCS Research",
+      "field": "Biological Data Analysis, Computational Biology"
+    },
+    {
+      "id": 35,
+      "name": "Dr. Sougata Sen",
+      "institute": "BITS Pilani, Goa",
+      "field": "IoT, Mobile and Wearable Health (mHealth), Ubiquitous Computing"
+    },
+    {
+      "id": 36,
+      "name": "Prof. Rajiv Ratn Shah",
+      "institute": "IIIT Delhi",
+      "field": "Multimedia and Multimodal Analysis"
+    },
+    {
+      "id": 37,
+      "name": "Prof. Jainendra Shukla",
+      "institute": "IIIT Delhi",
+      "field": "Affective Computing"
+    },
+    {
+      "id": 38,
+      "name": "Prof. Venkatesh Vinayakarao",
+      "institute": "Chennai Mathematical Institute",
+      "field": "Information Retrieval"
+    }
+  ]
+  
